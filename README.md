@@ -1,5 +1,4 @@
-```markdown
-# Lyrics Finder
+# React Lyrics Finder App
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Vite](https://img.shields.io/badge/Vite-4.1.0-blue)
