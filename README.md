@@ -47,11 +47,11 @@ Welcome to **React Lyrics Finder**, a beautifully designed web application built
 
 ### Light Mode
 
-![Light Mode](./assets/light-mode.png)
+![Light Mode](https://github.com/PaladinKnightMaster/react-lyrics-finder-app/blob/main/assets/light-mode.png)
 
 ### Dark Mode
 
-![Dark Mode](./assets/dark-mode.png)
+![Dark Mode](https://github.com/PaladinKnightMaster/react-lyrics-finder-app/blob/main/assets/dark-mode.png)
 
 ## Tech Stack
 
